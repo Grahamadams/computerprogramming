@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html> 
+    <head>
+       <title>Intro to CSS</title>
+       <link rel="stylesheet" href="Styles.CSS">
+    </head>
+    <body>
+    <h1>Styled heading</h1>
+    <p id="first"This is hard to learn</p>
+    <p>This is weird</p>
+    <button class="center">click here :)</button>
+    </body>
+</html>
